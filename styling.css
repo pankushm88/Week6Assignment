@@ -1,0 +1,26 @@
+body {
+    margin: 10px;
+    width: 100%;
+}
+
+article{
+    margin-bottom: 10px;
+}
+
+#calculator tr td input {
+    width: 100%;
+    background-color: seagreen;
+    padding: 28px;
+    font-size: xx-large;
+}
+
+li {
+    list-style: none;
+}
+
+#solution {
+    background-color:yellow;
+    padding-bottom: 50px;
+    width: 28%;   /*Change width acc to need*/
+    font-size: 100px;
+}
